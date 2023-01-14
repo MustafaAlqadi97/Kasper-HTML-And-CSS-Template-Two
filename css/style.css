@@ -1127,7 +1127,7 @@ header .nav .form i {
 
 /* Start Subscribe */
 .footer {
-    background-image: url(images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     color: white;
     position: relative;
